@@ -18,6 +18,10 @@ footer {
   margin-top: 50px;
 }
 
+a {
+  color: green;
+}
+
 #level-title {
   font-family: 'Cyberpunk2077', sans-serif;
   font-size: 4rem;
